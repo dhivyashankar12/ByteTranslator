@@ -12,7 +12,7 @@ The Byte Translate Project is an innovative language translation tool that aims 
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/byte-translate.git
+1. Clone the repository: git clone (https://github.com/dhivyashankar12/ByteTranslator)
 2. Navigate to the project directory: cd byte-translate
 3. Install the dependencies: npm install
 
